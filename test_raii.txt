@@ -1,0 +1,2 @@
+Linia 1: RAII in actiune!
+Linia 2: Fisierul se va inchide automat.

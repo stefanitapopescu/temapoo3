@@ -1,0 +1,6 @@
+=== Log Start ===
+Mesaj #1 - timestamp: 1765457566913589792
+Mesaj #2 - timestamp: 1765457567016928795
+Mesaj #3 - timestamp: 1765457567120244416
+Mesaj #4 - timestamp: 1765457567223896995
+Mesaj #5 - timestamp: 1765457567327700153
